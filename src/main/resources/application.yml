@@ -1,3 +1,6 @@
 spring:
   application:
     name: Vacation-Calculator
+
+server:
+  port: 8081
